@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/api/client.ts","./src/components/apikeymodal.tsx","./src/components/dashboard.tsx","./src/components/jobinput.tsx","./src/components/landingpage.tsx","./src/components/resultslist.tsx","./src/components/resumeupload.tsx"],"version":"5.9.3"}
