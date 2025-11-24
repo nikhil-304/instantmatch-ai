@@ -10,7 +10,7 @@ app = FastAPI(title="InstantMatch API", description="API for InstantMatch Applic
 origins = [
     "http://localhost:5173",  # Vite default port
     "http://localhost:3000",
-    "https://your-frontend.vercel.app",  # Replace with your Vercel domain
+    "https://instantmatch-ai.vercel.app",  # Your deployed Vercel frontend
 ]
 
 app.add_middleware(
